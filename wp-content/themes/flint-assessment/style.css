@@ -1,0 +1,706 @@
+/*
+Theme Name: Flint Assessment
+Description: A custom WordPress theme.
+Version: 1.0
+*/
+/* contact */
+
+// Submit
+color: #FE6F61;
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Name
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Your Name 
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// *
+color: #FE6F61;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Phone number
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Email Address
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Company
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// eg. Johannesburg
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Subject
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Message
+
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Phone Number
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Your Email
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+//  *
+color: #FE6F61;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Your Company
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Your Location
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+//  *
+color: #FE6F61;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Subject
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+//  *
+color: #FE6F61;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Message
+color: #203055;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+//  *
+color: #FE6F61;
+ font-size: 16px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Get In Touch
+color: #02A393;
+ font-size: 40px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Contact us about anything related to our company or services.We'll do our best to get back to you as soon as possible.
+color: #767676;
+ font-size: 19px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 30.57px;
+ word-wrap: break-word
+---
+// 1008 Katrol Avenue, Robertville, Roodepoort
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// +27 011 086 8888
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// sales@smda.co.za
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Johannesburg
+color: #FE6F61;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Unit 811, 733 Voortrekker Road, Maitland, 7405
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// +27 021 007 2883
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// salescapetown@smda.co.za
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Cape Town
+color: #FE6F61;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Block A, 574 Chris Hani Road, Briardene, 4071
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// +27 031 563 6934
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// salesdurban@smda.co.za
+color: #8D8D8D;
+ font-size: 17px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Durban
+color: #FE6F61;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Contact us
+color: white;
+ font-size: 72px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// United Kingdom  |  English
+color: #222222;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Language
+color: #767676;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Currency
+color: #767676;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ZAR
+color: #222222;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// suprememouldings.co.za © 2023 copyrights  | Odoo
+color: #222222;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Supreme 
+color: white;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 700;
+ text-transform: uppercase;
+ word-wrap: break-word
+---
+// Mouldings
+color: white;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 400;
+ text-transform: uppercase;
+ word-wrap: break-word
+---
+// Lorem ipsum dolor sit amet, consectetur<br/>adipiscing elit, sed do eiusmod tempor<br/>incididunt ut labore et dolore magna.
+
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Johannesburg
+color: #FE6F61;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// 1008 Katrol Avenue, Robertville, Roodepoort, 1700
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Monday to Thursday : 8AM to 4:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Friday : 8am to 3:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​+27 011 086 8888
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​sales@smda.co.za
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Cape Town
+color: #FE6F61;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Unit B11, 733 Voortrekker Road, Maitland, 7405
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Monday to Thursday : 8AM to 4:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Friday : 8am to 3:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​+27 021 007 2883
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​salescapetown@smda.co.za
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Durban
+color: #FE6F61;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Unit B11, 733 Voortrekker Road, Maitland, 7405
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Monday to Thursday : 8AM to 4:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Friday : 8am to 3:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// +27 031 563 6934
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// salesdurban@smda.co.za
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Home
+color: #8D8D8D;
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Shop
+color: #8D8D8D;
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Services
+color: #8D8D8D;
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// About Us
+color: #8D8D8D;
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Contact Us
+color: #8D8D8D;
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+/* Footer s */
+// Supreme 
+color: white;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 700;
+ text-transform: uppercase;
+ word-wrap: break-word
+---
+// Mouldings
+color: white;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 400;
+ text-transform: uppercase;
+ word-wrap: break-word
+---
+// Lorem ipsum dolor sit amet, consectetur<br/>adipiscing elit, sed do eiusmod tempor<br/>incididunt ut labore et dolore magna.
+
+ font-size: 15px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Johannesburg
+color: #FE6F61;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// 1008 Katrol Avenue, Robertville, Roodepoort, 1700
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Monday to Thursday : 8AM to 4:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Friday : 8am to 3:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​+27 011 086 8888
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​sales@smda.co.za
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Cape Town
+color: #FE6F61;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Unit B11, 733 Voortrekker Road, Maitland, 7405
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Monday to Thursday : 8AM to 4:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Friday : 8am to 3:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​+27 021 007 2883
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// ​salescapetown@smda.co.za
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Durban
+color: #FE6F61;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Unit B11, 733 Voortrekker Road, Maitland, 7405
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Monday to Thursday : 8AM to 4:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Friday : 8am to 3:30PM
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// +27 031 563 6934
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// salesdurban@smda.co.za
+
+ font-size: 13px;
+ font-family: Montserrat;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+
+ /* Responsive */
+
+ /* Default styles for larger screens */
+div {
+    width: 100%;
+    height: 100%;
+    padding-left: 255px;
+    padding-right: 255px;
+    padding-top: 103px;
+    padding-bottom: 103px;
+    background: #203055;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex;
+}
+
+/* Responsive styles for smaller screens */
+@media screen and (max-width: 768px) {
+    div {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}
+
+/* Additional media queries for even smaller screens if needed */
+@media screen and (max-width: 480px) {
+    div {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}
+
+/* Styles for the image to make it responsive */
+img {
+    max-width: 100%;
+    height: auto;
+}
